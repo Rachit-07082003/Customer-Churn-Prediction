@@ -175,3 +175,6 @@ This will start a local web server, and a browser window should automatically op
 3. **Hyperparameter Tuning**: Run RandomizedSearchCV or GridSearchCV to find the optimal hyperparameters for the Random Forest model.
 4. **Cloud Deployment**: Deploy the Streamlit application to **Streamlit Community Cloud**, Heroku, or AWS Elastic Beanstalk.
 5. **Database Integration**: Store predictions and customer input history in a SQLite or PostgreSQL database for auditing and retrain monitoring.
+## 🚀 Live Demo
+
+👉 **[Open the Live Application](https://customer-churn-predictio-vypdn2ks24qiulivcmswqj.streamlit.app)**
